@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: crypto-pipeline
+Version: 0.1.0
+Summary: Real-time crypto trade streaming and analytics platform
+Requires-Python: >=3.11
